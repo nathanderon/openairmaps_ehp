@@ -1,5 +1,5 @@
 Type: Package
-Package: openairmaps
+Package: openairmapsEHP
 Title: Create Maps of Air Pollution Data
 Version: 0.8.1
 Authors@R: c(
